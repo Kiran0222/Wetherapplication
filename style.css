@@ -1,5 +1,5 @@
 
-<!--Header CSS -->
+/* -- Header CSS -- */
 header {
   width: 100%;
     color: #fff;
@@ -89,9 +89,9 @@ nav{
 }
 
 
-<!--Header CSS END -->
+/*--Header CSS END -- */
 
-<!--Current Weather card-->
+ /* --Current Weather card-- */
 #current-weather{
   background-color: #fff;
    margin: 20px;
@@ -153,7 +153,7 @@ nav{
   color: #fff;
 }
 
-<!-- Weather Forecast -->
+/* -- Weather Forecast -- */
 .tblForcast{
   width: 100%;
 }
